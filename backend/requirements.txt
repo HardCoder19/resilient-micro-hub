@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+gridstatus
+pandas
+pydantic
+sqlalchemy
+python-dotenv
+langchain
+langgraph
+langchain-openai
+websockets
+psycopg2-binary
